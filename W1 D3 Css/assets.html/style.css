@@ -1,0 +1,18 @@
+.page-web {
+    width: 330px;
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.logo {
+    width: 100%;
+    
+}
+
+.riga-colo{
+    background-color: #FDFBF1;
+   text-align: center;
+   border-color: #FDFBF1;
+}
