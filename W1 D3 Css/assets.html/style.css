@@ -1,9 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap');
+
 body {
     margin: 0;
+    font-family: 'Lora', serif;
 }
 
 .page-web {
-    width: 330px;
+    width: 200px;
     margin-top: 2rem;
     margin-left: auto;
     margin-right: auto;
