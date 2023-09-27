@@ -1,3 +1,7 @@
+body {
+    margin: 0;
+}
+
 .page-web {
     width: 330px;
     margin-top: 2rem;
@@ -7,12 +11,52 @@
 }
 
 .logo {
-    width: 100%;
+    width: 200px;
     
 }
 
 .riga-colo{
     background-color: #FDFBF1;
    text-align: center;
-   border-color: #FDFBF1;
+   border-top: 1px solid orange;
+
 }
+
+main{
+    padding: 2em;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main h1 {
+    text-align: center;
+}
+
+
+main .descrizione {
+    text-align: left;
+}
+
+main .Sally {
+    text-align: center; color: grey;
+
+}
+
+.prelista {
+    border-left: 3px solid #FFD877;
+   text-align: left;
+}
+
+
+    .prelista h4 {
+    color: #B5460F;
+}
+
+
+
+
+
+
+
+
