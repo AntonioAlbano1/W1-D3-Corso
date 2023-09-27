@@ -49,6 +49,7 @@ main .Sally {
 .prelista {
     border-left: 3px solid #FFD877;
    text-align: left;
+   padding-left: 20px;
 }
 
 
@@ -77,6 +78,15 @@ padding-top: 3rem;
     padding-left: 20px;
 }
 
+hr {
+    background-color: red;
+    height: 1px;
+    border: none;
+}
+
+.focaccia {
+    box-shadow: 10px 10px 5px #7c7575;
+}
 
 
 
